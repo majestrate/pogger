@@ -1,6 +1,6 @@
-# pogger
+# Pogger
 
-hub oriented encrypted messaging program for gaming and other normal people activities.
+Hub oriented encrypted messaging program for gaming and other normal people activities.
 
 ## Features
 
@@ -21,8 +21,7 @@ hub oriented encrypted messaging program for gaming and other normal people acti
 * hub syndication is flexible and can ebb and flow as communities pop up and depart.
 * accessible, non bullshit moderation tools.
 * generic programmable tooling for server admins.
-* large file transfer using BEP0052
-
+* large file transfer using BEP0052.
 
 ## Licensing
 
@@ -30,6 +29,6 @@ Currently pogger is released under GPL3 which keeps the codebase free (as in the
 
 ### Future Licensing
 
-It is understoos that GPL is a dirty word outside of the FOSS ecosystem.
+It is understood that GPL is a dirty word outside of the FOSS ecosystem.
 If you are a large organization with specialized needs that GPL3 complicates,
 please feel free to reach out on negotiating commcercial subscription licensing.
